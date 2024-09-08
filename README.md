@@ -3,7 +3,7 @@ User can change logo x and y positions, alpha and scale; rotation is also possib
 
 Uses GTK4 library for C, without which this project would not have been possible.
 
-First proper attempt at coding in C. In total, around 6 days spent between set-up and actual programming.
+First proper attempt at coding in C. In total, around 6 days spent between set-up (getting Code::Blocks and GTK to actually work) and actual programming.
 
 Some notes:
 - 32-bit jpegs don't seem able to be loaded to pixbuf, neither to texture. Interestingly, it can be loaded directly in Picture widget on startup.
