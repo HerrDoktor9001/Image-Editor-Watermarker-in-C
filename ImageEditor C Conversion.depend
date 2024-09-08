@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205424 source:z:\programdata\codeblocks\imageeditor c conversion\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 z:\programdata\codeblocks\imageeditor c conversion\resource.h
+
+1725829775 source:z:\programdata\codeblocks\imageeditor c conversion\untitled1.c
+	<gtk/gtk.h>
+
